@@ -2,7 +2,7 @@ body {
     font-family: 'Poppins';
     height: 100%;
     width: 100%;
-    overflow: hidden;
+    overflow: auto;
 }
 
 .cabecalho {
@@ -43,7 +43,7 @@ body {
     display: flex;
     align-items: center;
     height: calc(100vh - 132);
-    padding: 80px 30px 30px;
+    padding: 50px 30px 30px;
 }
 
 .container .img-titulo {
